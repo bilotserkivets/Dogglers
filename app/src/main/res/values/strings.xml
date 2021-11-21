@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Dogglers</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="age">Age: %s1</string>
+    <string name="hobbies">Hobbies: %s2</string>
+</resources>
